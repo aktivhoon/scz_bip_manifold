@@ -1,2 +1,2 @@
 # scz_bip_manifold
-🫧 Revealing Psychotic Symptom Patterns in Schizophrenia and Bipolar I Disorder: Insights from Symptom Pattern Investigation (Kim et al., Translational Psychiatry. 2024) 
+🫧 Revealing Differential Psychotic Symptom patterns in Schizophrenia and Bipolar I Disorder by Manifold Learning and Network Analysis (Kim et al., Translational Psychiatry. 2024) 
