@@ -162,4 +162,7 @@ cython_debug/
 # data folder
 data/
 
+# manusrcipt folder
+manuscript/
+
 .DS_Store
