@@ -1,5 +1,5 @@
 # Schizophrenia & Bipolar I disorder Manifold
-This is the official code for Revealing Differential Psychotic Symptom patterns in Schizophrenia and Bipolar I Disorder by Manifold Learning and Network Analysis (Kim et al., 2024).
+This is the official code for Revealing Differential Psychotic Symptom patterns in Schizophrenia and Bipolar I Disorder by Manifold Learning and Network Analysis (Kim et al., Translational Psychiatry, 2025).
 
 ## Description
 
@@ -76,4 +76,4 @@ This repository contains Python and R scripts for analyzing psychotic symptoms i
 
 If you use this code, please cite the following paper:
 
-Kim, et al. (2024). "Revealing Differential Psychotic Symptom Patterns in Schizophrenia and Bipolar I Disorder by Manifold Learning and Network Analysis."
+Kim, et al. (2025). "Revealing Differential Psychotic Symptom Patterns in Schizophrenia and Bipolar I Disorder by Manifold Learning and Network Analysis.", _Translational Psychiatry_.
